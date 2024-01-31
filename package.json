@@ -1,0 +1,14 @@
+{
+    "name": "my-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+      "test": "mocha test.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "mocha": "^8.4.0",
+      "assert": "^2.0.0"
+    }
+  }
